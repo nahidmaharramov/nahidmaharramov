@@ -1,7 +1,8 @@
-<!-- Profil Resmi Sayfa Boyunca -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nahidmaharramov/nahidmaharramov/364141ae6802e476e54ff0d6c21f979afbe9cb66/IMG_1788.JPG" style="width:100%; max-width:750px; border-radius:50%;" />
+  <img src="https://raw.githubusercontent.com/nahidmaharramov/nahidmaharramov/364141ae6802e476e54ff0d6c21f979afbe9cb66/IMG_1788.JPG" 
+       style="width:100%; max-width:750px; height:320px; object-fit:cover; border-radius:50%;" />
 </p>
+
 <h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">Nahid Maharramov</span></h1>
 <h3 align="center">💻 Full Stack Developer from Azerbaijan / Turkey</h3>
 
